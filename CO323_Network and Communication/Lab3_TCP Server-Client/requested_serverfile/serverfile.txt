@@ -1,0 +1,32 @@
+The following are the graphical (non-control) characters defined by
+ISO 8859-1 (1987).  Descriptions in words aren't all that helpful,
+but they're the best we can do in text.  A graphics file illustrating
+the character set should be available from the same archive as this
+file.
+
+Hex Description                 Hex Description
+
+20  SPACE
+21  EXCLAMATION MARK            A1  INVERTED EXCLAMATION MARK
+22  QUOTATION MARK              A2  CENT SIGN
+23  NUMBER SIGN                 A3  POUND SIGN
+24  DOLLAR SIGN                 A4  CURRENCY SIGN
+25  PERCENT SIGN                A5  YEN SIGN
+26  AMPERSAND                   A6  BROKEN BAR  TILDE                       FE  SMALL LETTER THORN (Icelandic)
+                                FF  SMALL LETTER Y WITH DIAERESIS
+A1  INVERTED EXCLAMATION MARK
+22  QUOTATION MARK              A2  CENT SIGN
+23  NUMBER SIGN                 A3  POUND SIGN
+24  DOLLAR SIGN                 A4  CURRENCY SIGN
+25  PERCENT SIGN                A5  YEN SIGN
+26  AMPERSAND                   A6  BROKEN BAR  TILDE                       FE  SMALL LETTER THORN (Icelandic)
+                                FF  SMALL LETTER Y WITH DIAERE
+
+The following are the graphical (non-control) characters defined byThe following are the graphical (non-control) characters defined by
+ISO 8859-1 (1987).  Descriptions in words aren't all that helpful,
+but they're the best we can do in text.  A graphics file illustrating
+the character set should be available from the same archive as this
+file.
+ISO 8859-1 (1987).  Descriptions in words aren't all that helpful,
+but they're the best we can do in text.  A graphics file illie
+
